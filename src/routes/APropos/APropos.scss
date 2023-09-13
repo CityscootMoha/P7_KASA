@@ -1,0 +1,11 @@
+.aPropos {
+	width: 80%;
+	margin-left: 10%;
+	.collapsses {
+		margin-bottom: 50px;
+	}
+	@media (max-width:600px) {
+		min-height: 74vh;
+		
+	}
+}
